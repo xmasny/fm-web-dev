@@ -9,6 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/xmasny/fm-web-dev"
+    },
   "extensionPack": [ 
     "128na.simutrans-dat-vscode-extention", 
     "aaravb.chrome-extension-developer-tools", 
