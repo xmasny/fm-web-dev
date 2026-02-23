@@ -9,11 +9,14 @@
   "categories": [
     "Extension Packs"
   ],
-   "repository": {
+  "scripts": {
+    "vscode:uninstall": "node ./out/src/lifecycle"
+  },
+  "repository": {
     "type": "git",
     "url": "https://github.com/xmasny/fm-web-dev"
-    },
-  "extensionPack": [ 
+  },
+  "extensionPack": [
     "adpyke.codesnap",
     "bierner.markdown-checkbox",
     "bradlc.vscode-tailwindcss",
