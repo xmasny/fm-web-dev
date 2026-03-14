@@ -1,8 +1,9 @@
 {
   "name": "fm-web-dev",
   "displayName": "fm-web-dev",
+  "author": "masny",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -56,7 +57,6 @@
     "kdcro101.typescript-code-navigator",
     "liamhammett.inline-parameters",
     "malcolmmielle.semantic-highlighting",
-    "masny.fm-ssts-base",
     "meganrogge.template-string-converter",
     "mechatroner.rainbow-csv",
     "mikestead.dotenv",
