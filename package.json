@@ -3,7 +3,7 @@
   "displayName": "fm-web-dev",
   "author": "masny",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -92,6 +92,7 @@
     "wix.vscode-import-cost",
     "wmaurer.change-case",
     "xabikos.javascriptsnippets",
-    "yoavbls.pretty-ts-errors"
+    "yoavbls.pretty-ts-errors",
+    "PKief.material-icon-theme"
   ]
 }
